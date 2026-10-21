@@ -10,6 +10,8 @@ Make calendar files (`.ics`) from your own data, and read them back. For rosters
 npm install @sandsoftwaresolutions/ics-lite
 ```
 
+Works with `import` and `require()`, and ships TypeScript types for both.
+
 ## Write
 
 ```js
